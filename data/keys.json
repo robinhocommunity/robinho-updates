@@ -5,5 +5,12 @@
     "criada_em": "2026-07-11T02:00:00",
     "expira": null,
     "usado_em": null
+  },
+  "BOOST-XPAN-EL00-TEST": {
+    "usado": false,
+    "hwid": null,
+    "criada_em": "2026-07-11T03:00:00",
+    "expira": null,
+    "usado_em": null
   }
 }
